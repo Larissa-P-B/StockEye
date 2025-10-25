@@ -13,8 +13,8 @@ plotly==5.24.1
 
 # Processamento de imagens
 Pillow==10.4.0
-
+opencv-python-headless==4.10.0.84
 
 # Utilitários opcionais (recomendados)
 protobuf==4.25.3
-h5py==3.11.0
+
