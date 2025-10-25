@@ -1,0 +1,20 @@
+# Framework principal
+streamlit==1.39.0
+
+# Manipulação de dados
+pandas==2.2.2
+numpy==1.26.4
+
+# Machine Learning / Deep Learning
+tensorflow==2.17.0
+
+# Visualização de dados
+plotly==5.24.1
+
+# Processamento de imagens
+Pillow==10.4.0
+
+
+# Utilitários opcionais (recomendados)
+protobuf==4.25.3
+h5py==3.11.0
